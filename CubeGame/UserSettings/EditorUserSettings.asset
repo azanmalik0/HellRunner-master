@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedScenePath-0:
+      value: 224247031146467a1f0d04231e2c4d5f251411670a2166113f3a183de3ec7b11ecf333fbe6392b352f07cb3909314e1bf707064bc5080f05141db21d12f6161a2ed014d113c51e08ce1713d8cc53c4eddcc2cd
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 224247031146467a1f0d04231e2c4d5f251411670a2166113f3a183de3ec7b11ecf333fbe6392b352f07cb3909314e1bf707064bc5080f05141db21d12f6161a2ed60fcc08c4061dde0b1d80d813d8f7cc
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 224247031146467a1f0d04231e2c4d5f251411670a2166113f3a183de3ec7b11ecf333fbe6392b352f07cb3909314e1bf707064bc5080f05141db21d12f6161a2ecd1ddd1bcf1012d11612cb8308dfeac1cf
+      flags: 0
+    RecentlyUsedScenePath-3:
+      value: 224247031146467a1f0d04231e2c4d5f251411670a2166113f3a183de3ec7b11ecf333fbe6392b352f07cb3909314e1bf707064bc5080f05141db21d12f6161a2ecf1dd11cc41e11ce5709c0c409c8
+      flags: 0
+    RecentlyUsedScenePath-4:
+      value: 224247031146467a1f0d04231e2c4d5f251411670a2166113f3a183de3ec7b11ecf333fbe6392b352f07cb3909314e1bf707064bc5080f05141db21d12f6161a2ec911c212dc1509c60952dbc314c5fa
+      flags: 0
+    RecentlyUsedScenePath-5:
+      value: 224247031146460f32280530156c6c1313191d65781700393f2c5326ece92021
+      flags: 0
+    RecentlyUsedScenePath-6:
+      value: 224247031146467702193c2d1c3a6c1b031b1465082d2b3f6d1a1e36ece57b3ce7ea39a7f234362820
+      flags: 0
+    RecentlyUsedScenePath-7:
+      value: 224247031146466804031c2e15637c111b120a2b6c7b027f1e281023eee5073be7e933a6c43b32392b03dc3d092e0d3abc1f0702e212
+      flags: 0
+    RecentlyUsedScenePath-8:
+      value: 22424703114646680e0b0227036c72111f19352f223d68252320092a
+      flags: 0
+    RecentlyUsedScenePath-9:
+      value: 22424703114646680e0b0227036c78111b1228262d3168252320092a
+      flags: 0
+    UnityRemoteDevice:
+      value: 2d5e5a03
+      flags: 0
+    UnityRemoteResolution:
+      value: 2d5e460b0459
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
